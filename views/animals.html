@@ -1,0 +1,64 @@
+
+  <div class="container page-content my-slide"> 
+    <div class="row">
+      <div class="col-md-4 col-md-offset-4 text-center ">
+        <div class="input-group">
+          <input type="text" class="form-control" ng-model="searchText" placeholder="&#xF002;&nbsp;&nbsp;&nbsp;&nbsp;search" style="font-family:Arial, FontAwesome"  name="srch-term" id="srch-term">
+        
+        </div>
+     </div>
+    </div>
+     
+      <div class="row category">
+      <div class="carnivore animals">
+      	<h1>Carnivore</h1>
+      	<p>{{photos.name[0].bio}}</p>
+      </div>
+      <div class="item col-md-4" ng-repeat="photo in photos | filter:{category:'carnivore'} | filter: searchText">
+        <a href="#/animals/{{photo.id}}">
+        <span class="thumbnail">
+        	<p class="name"> {{ photo.name }}</p>
+        	<img class="img-responsive" ng-src="{{ photo.url }}">
+        </span>
+        <p class="bio"> </p>
+         
+        </a>
+      </div>
+    </div>
+
+     <div class="row category">
+      <div class="herbivore animals">
+      	<h1>Herbivore</h1>
+      	<p>{{photos.name[0].bio}}</p>
+      </div>
+      <div class="item col-md-4" ng-repeat="photo in photos | filter:{category:'herbivore'} | filter: searchText" >
+        <a href="#/animals/{{photo.id}}">
+        <span class="thumbnail">
+        	<p class="name"> {{ photo.name }}</p>
+        	<img class="img-responsive" ng-src="{{ photo.url }}">
+        </span>
+        <p class="bio"> </p>
+         
+        </a>
+      </div>
+    </div>
+
+     <div class="row category">
+      <div class="omnivore animals">
+      	<h1>Omnivore</h1>
+      	<p>{{photos.name[0].bio}}</p>
+      </div>
+      <div class="item col-md-4" ng-repeat="photo in photos | filter:{category:'omnivore'} | filter: searchText">
+        <a href="#/animals/{{photo.id}}">
+        <span class="thumbnail">
+        	<p class="name"> {{ photo.name }}</p>
+        	<img class="img-responsive" ng-src="{{ photo.url }}">
+        </span>
+        <p class="bio"> </p>
+          
+        </a>
+      </div>
+    </div>
+    </div>
+
+

@@ -1,0 +1,43 @@
+
+<div class="my-slide">
+<div class=" jumbatron">
+    
+        <div class="slider">
+        	<img id="slide" ng-repeat="image in images" ng-show="image.visible" ng-src="images/{{image.src}}">
+	    	
+	    </div>
+	    <span class="arrow prev" ng-click="prev()"><i class="fa fa-angle-left"></i></span> <span class="arrow next"   ng-click="next()"><i class="fa fa-angle-right"></i></span> 
+
+	   <!--  <nav class="nav nav-dot">
+        <div class="wrapper">
+            <ul class="dots">
+                <li class="dot" ng-repeat="image in images" ng-class="{'active':isCurrent($index)}">
+                    <span  ng-click="current($index);">{{image.src}}</span></li>
+            </ul>
+        </div>
+    </nav> -->
+</div>
+
+  
+<div class="container desc">
+    <div class="row">
+        <div class="col-md-4  ">
+            <img src="images/king.png">
+            <h2>Carnivore</h2>
+
+       <p>Carnivores are animals that eat other animals as their main source of nutrition and are usually physically designed to effectively hunt, capture and consume their prey. </p>
+        </div>
+        <div class="col-md-4  alt-col">
+            <img src="images/deer.png">
+            <h2>Herbivore</h2>
+       <p>A herbivore is an animal that gets its energy from eating plants, and only plants. Many herbivores are prey for carnivores, meat-eating animals, and their visual adaptation makes it possible for them to notice a predator before being attacked, and, hopefully, escape unharmed. </p>
+        </div>
+        <div class="col-md-4">
+            <img src="images/sea.png">
+            <h2>Omnivore</h2>
+       <p>An omnivore is a kind of animal that eats either other animals or plants. Some omnivores will hunt and eat their food, like carnivores, eating herbivores and other omnivores. Some others are scavengers and will eat dead matter. Omnivores eat plants, but not all kinds of plants. </p>
+        </div>
+    </div>
+	
+</div>
+</div>

@@ -1,0 +1,216 @@
+ [
+    
+    {
+        "id":"0",
+        "category":"Carnivore",
+        "name":"cheetah",
+        "url":"images/cheetah.jpg",
+        "bio":"The cheetah is the world's fastest land mammal. With acceleration that would leave most automobiles in the dust, a cheetah can go from 0 to 60 miles (96 kilometers) an hour in only three seconds. These big cats are quite nimble at high speed and can make quick and sudden turns in pursuit of prey.Before unleashing their speed, cheetahs use exceptionally keen eyesight to scan their grassland environment for signs of prey—especially antelope and hares. This big cat is a daylight hunter that benefits from stealthy movement and a distinctive spotted coat that allows it to blend easily into high, dry grasses. When the moment is right a cheetah will sprint after its quarry and attempt to knock it down. Such chases cost the hunter a tremendous amount of energy and are usually over in less than a minute. If successful, the cheetah will often drag its kill to a shady hiding place to protect it from opportunistic animals that sometimes steal a kill before the cheetah can eat. Cheetahs need only drink once every three to four days."
+    },
+    {
+        "id":"1",
+        "category":"Carnivore",
+        "name":"crocodile",
+        "url":"images/crocodile.jpg",
+        "bio":"Crocodiles are large aquatic reptiles that live throughout the tropics in Africa, Asia, the Americas and Australia. Crocodylinae, all of whose members are considered true crocodiles, is classified as a biological subfamily. A broader sense of the term crocodile, Crocodylidae that includes Tomistoma, is not used in this article. The term crocodile here applies only to the species within the subfamily of Crocodylinae. The term is sometimes used even more loosely to include all extant members of the order Crocodilia, which includes Tomistoma, the alligators and caimans (family Alligatoridae), the gharials (family Gavialidae), and all other living and fossil Crocodylomorpha."
+    },
+    {
+        "id":"2",
+        "category":"Carnivore",
+        "name":"wolf",
+        "url":"images/graywolf.jpg",
+        "bio":"The wolf is thought to be an ice age survivor, dating wolves around 300,000 years ago. The wolf is accepted to be the ancestor of the domestic dog as the wolf is thought to have selectively bred in order to breed appealing traits typical of puppies and to eliminate the not so appealing traits of adult wolves. The grey wolf is a highly adaptive animal found in all kinds of terrain. Wolves inhabit forests, deserts, mountains, tundras, grasslands and even urban areas with the wolf being a particularly dominant and ruthless predator within it's environment. They vary in color from pure white to pure black and every shade of brown and gray inbetween. At one time the wolf had the widest distribution of any mammal. The biggest wolves on earth live in Alaska and average 125-135 lb. One specimen was taken that weighed 200 lb. The smallest wolves live in Iran and average about 60 lb."
+    },
+    {
+        "id":"3",
+        "category":"Carnivore",
+        "name":"hyena",
+        "url":"images/hyena.jpg",
+        "bio":"The hyena is a carnivorous dog-like species of animal, native to parts of both Africa and Asia. There are four known species of hyena, the spotted hyena, the striped hyena, the brown hyena and the aardwolf.Hyenas are scavenger mammals meaning that the hyena tends to eat another animals kill, rather than the hyena actually catching its own food. The hyena is well known for its cackling laugh-like scream, which the hyena is believed to use in order to alert other hyenas of a source of food. This hyena call is thought to be able to be heard by other hyenas for up to three miles.The hyena is a remarkably intelligent animal. Hyenas are thought to have being compared to primates and humans in the evolutionary status of the hyenas brain."
+    },
+    {
+        "id":"4",
+        "category":"Carnivore",
+        "name":"whale",
+        "url":"images/whale.jpg",
+        "bio":"Whales are large, intelligent, aquatic mammals. They breathe air through blowhole(s) into lungs (unlike fish who breathe using gills). Whales have sleek, streamlined bodies that move easily through the water. They are the only mammals, other than manatees (seacows), that live their entire lives in the water, and the only mammals that have adapted to life in the open oceans."
+    },
+    {
+        "id":"5",
+        "category":"Carnivore",
+        "name":"lion",
+        "url":"images/lions.jpg",
+        "bio":"Renowned for its majesty and nicknamed \"the king of the jungle,\" the lion possesses both beauty and strength. Lions vary in color but typically sport light yellow-brown coats. Mature male lions are unique among big cats due the thick brown or black manes that encircle their necks and protect them while fighting. For all of their roaring, growling, and ferociousness, lions are family animals and truly social in their own communities. They usually live in groups of 15 or more animals called prides. Prides can be as small as 3 or as big as 40 animals. In a pride, lions hunt prey, raise cubs, and defend their territory together. In prides the females do most of the hunting and cub rearing. Usually all the lionesses in the pride are related—mothers, daughters, grandmothers, and sisters. Many of the females in the pride give birth at about the same time. A cub may nurse from other females as well as its mother. Each pride generally will have no more than two adult males. "
+    },
+    {
+        "id":"6",
+        "category":"Carnivore",
+        "name":"jaguar",
+        "url":"images/jaguar.jpg",
+        "bio":"The jaguar are the big cat. The jaguar has a compact body, a broad head and powerful jaws. Its coat is normally yellow and tan, but the color can vary from reddish brown to black. The spots on the coat are more solid and black on the head and neck and become larger rosette-shaped patterns along the side and back of the body.Unlike many other cats, jaguars do not avoid water; in fact, they are quite good swimmers. Rivers provide prey in the form of fish, turtles, or caimans—small, alligatorlike animals. Jaguars also eat larger animals such as deer, peccaries, capybaras, and tapirs. They sometimes climb trees to prepare an ambush, killing their prey with one powerful bite."
+    },
+    {
+        "id":"7",
+        "category":"Carnivore",
+        "name":"leopard",
+        "url":"images/leopard.jpg",
+        "bio":"Leopards are graceful and powerful big cats closely related to lions, tigers, and jaguars. They live in sub-Saharan Africa, northeast Africa, Central Asia, India, and China. However, many of their populations are endangered, especially outside of Africa.The leopard is so strong and comfortable in trees that it often hauls its kills into the branches. By dragging the bodies of large animals aloft it hopes to keep them safe from scavengers such as hyenas. Leopards can also hunt from trees, where their spotted coats allow them to blend with the leaves until they spring with a deadly pounce. These nocturnal predators also stalk antelope, deer, and pigs by stealthy movements in the tall grass. When human settlements are present, leopards often attack dogs and, occasionally, people. Leopards are strong swimmers and very much at home in the water, where they sometimes eat fish or crabs."
+    },
+    {
+        "id":"8",
+        "category":"Carnivore",
+        "name":"polar bear",
+        "url":"images/polarbear.jpg",
+        "bio":"Polar bears roam the Arctic ice sheets and swim in that region's coastal waters. They are very strong swimmers, and their large front paws, which they use to paddle, are slightly webbed. Some polar bears have been seen swimming hundreds of miles from land—though they probably cover most of that distance by floating on sheets of ice. Polar bears live in one of the planet's coldest environments and depend on a thick coat of insulated fur, which covers a warming layer of fat. Fur even grows on the bottom of their paws, which protects against cold surfaces and provides a good grip on ice. The bear's stark white coat provides camouflage in surrounding snow and ice. But under their fur, polar bears have black skin—the better to soak in the sun's warming rays."
+    },
+    {
+        "id":"9",
+        "category":"Carnivore",
+        "name":"tiger",
+        "url":"images/tiger.jpg",
+        "bio":"The tiger is the largest member of the felid (cat) family. They sport long, thick reddish coats with white bellies and white and black tails. Their heads, bodies, tails and limbs have narrow black, brown or gray stripes. There were once nine subspecies of tigers: Bengal, Siberian, Indochinese, South Chinese, Sumatran, Malayan, Caspian, Javan and Bali. Of these, the last three are extinct, one is extinct in the wild, and the rest are endangered."
+    },
+    {
+        "id":"10",
+        "category":"Herbivore",
+        "name":"white-tailed deer",
+        "url":"images/buck-white-tailed-deer.jpg",
+        "bio":"The white-tailed deer, also known as the whitetail, is a medium-sized deer native to the United States, Canada, Mexico, Central America, and South America as far south as Peru and Bolivia. In the heat of summer they typically inhabit fields and meadows using clumps of broad-leaved and coniferous forests for shade. During the winter they generally keep to forests, preferring coniferous stands that provide shelter from the harsh elements. White-tailed deer are herbivores, leisurely grazing on most available plant foods. Their stomachs allow them to digest a varied diet, including leaves, twigs, fruits and nuts, grass, corn, alfalfa, and even lichens and other fungi. Occasionally venturing out in the daylight hours, white-tailed deer are primarily nocturnal or crepuscular, browsing mainly at dawn and dusk."
+    },
+    {
+        "id":"11",
+        "category":"Herbivore",
+        "name":"butterfly",
+        "url":"images/butterfly.jpg",
+        "bio":"Butterflies are brightly colored flying insects with two pairs of large wings that vary in color and pattern from species to species. Butterfly wings are covered with overlapping rows of tiny scales, the group comprises the large superfamily Papilionoidea, along with two smaller groups, the skippers (superfamily Hesperioidea) and the moth-butterflies (superfamily Hedyloidea). A caterpillar’s first meal is its own eggshell. It then spends most of its time eating the leaves of the plant on which it hatched. An adult butterfly uncoils its long, straw-like proboscis to sip nectar from flowers, juice from rotting fruit and water from puddles. Butterflies are found worldwide except on the continent of Antarctica. Many species migrate to avoid adverse conditions. Most migrate relatively short distances, but monarchs and several other species migrate thousands of miles."
+    },
+    {
+        "id":"12",
+        "category":"Herbivore",
+        "name":"giraffe",
+        "url":"images/giraffe.jpg",
+        "bio":"Giraffes are the world's tallest mammals, thanks to their towering legs and long necks. A giraffe's legs alone are taller than many humans—about 6 feet (1.8 meters). These long legs allow giraffes to run as fast as 35 miles (56 kilometers) an hour over short distances and cruise comfortably at 10 miles (16 kilometers) an hour over longer distances. Typically, these fascinating animals roam the open grasslands in small groups of about half a dozen. Giraffes are herbivores, which means they eat only plants. Their long necks allow them to reach leaves, buds and branches high up in mimosa and acacia trees. They can eat hundreds of pounds of leaves per week, according to National Geographic. Though these animals eat a lot, giraffes can go without drinking for weeks at a time. They get most of their moisture from the vegetation they eat."
+    },
+    {
+        "id":"13",
+        "category":"Herbivore",
+        "name":"goat",
+        "url":"images/goat.jpg",
+        "bio":"Goats are stout-bodied mammals with horns and cloven hooves. There are two types of goats: domestic goats (Capra hircus), which are raised and bred as farm animals; and mountain goats (Oreamnos americanus), which live in steep, rocky areas in the American Northwest. Goats are members of the Bovidae family, which also includes antelopes, cattle and sheep. Goats are herbivores, which means they eat only vegetation. Their favorite food is grass, though mountain goats also eat mosses and plants. Many domestic goats will also eat trash, house plants or any other items they find lying around. Goats grab food with their lips and bring it into their mouths, according to the Smithsonian. The upper jaw is wider than the lower jaw, so they can only use one side of their mouths to grind the food. This causes the rotary movement that is seen when a goat (or a cow) is chewing. Goats are ruminants, and like cattle, they have four stomach compartments. The rumen can hold 4 to 6 gallons (15 to 23 liters); the reticulum can hold up to 0.26 to 0.5 gallons (0.98 to 1.9 liters); the omasum can hold up to 0.26 gallons (0.98 liters) and the abomasum can hold up to 1 gallon (3.8 liters). It takes 11 to 15 hours for food to pass through a goat's digestive system."
+    },
+    {
+        "id":"14",
+        "category":"Herbivore",
+        "name":"horse",
+        "url":"images/horse.jpg",
+        "bio":"Horses are mammals with hooves. They also have long tails, short hair, muscular torsos, long thick necks and elongated heads. Horses and humans have an ancient relationship. Asian nomads probably domesticated the first horses some 4,000 years ago, and the animals remained essential to many human societies until the advent of the engine. Horses still hold a place of honor in many cultures, often linked to heroic exploits in war. Horses are herbivores. This means they only eat vegetation. Typically, horses eat grass, but domesticated horses are often fed bran, rolled oats, barley and hay, as well. A well-fed horse eats 1 to 2 percent of its body weight in roughage, such as grass or hay, every day, according to The Humane Society. Horses only have one stomach, unlike cows, and it is small. So to get enough food, a horse must graze throughout the day."
+    },
+    {
+        "id":"15",
+        "category":"Herbivore",
+        "name":"kangaroo",
+        "url":"images/kangaroo.jpg",
+        "bio":"Kangaroos are large marsupials that are found only in Australia. They are identified by their muscular tails, strong back legs, large feet, short fur and long, pointed ears. Like all marsupials, a sub-type of mammal, females have pouches that contain mammary glands, where their young live until they are old enough to emerge. Kangaroos are herbivores. They eat grasses, flowers, leaves, ferns, moss and even insects. Like cows, kangaroos regurgitate their food and re-chew it before it is ready to be totally digested. "
+    },
+    {
+        "id":"16",
+        "category":"Herbivore",
+        "name":"koala",
+        "url":"images/koala.jpg",
+        "bio":"Koalas are tree-hugging marsupials with big, round ears and black oval noses. They are an iconic symbol of Australia, the only place in the world where they are found. Though often called the koala \"bear,\" this cuddly animal is not a bear at all; it is a marsupial, or pouched mammal. After giving birth, a female koala carries her baby in her pouch for about six months. When the infant emerges, it rides on its mother's back or clings to her belly, accompanying her everywhere until it is about a year old. Koalas eat 3 hours per day, usually during the nighttime, and rest 16 to 18 hours a day, according to the Adelaide Zoo. They sleep so much because they need time and energy to digest their food. It takes a lot of energy to digest the fibrous leaves of the eucalyptus. Koalas are herbivores who eat only eucalyptus. Each animal eats a tremendous amount for its size—about two and a half pounds (one kilogram) of leaves a day. Koalas even store snacks of leaves in pouches in their cheeks."
+    },
+    
+    {
+        "id":"17",
+        "category":"Herbivore",
+        "name":"zebra",
+        "url":"images/zebras-african.jpg",
+        "bio":"Zebras are single-hoofed animals that are native to Africa. Zebras are very closely related to horses and donkeys; in fact, they are in the same genus, Equus. The most prominent feature of zebras is the bold patterns on their coats. Why do zebras have stripes at all? Scientists aren't sure, but many theories center on their utility as some form of camouflage. The patterns may make it difficult for predators to identify a single animal from a running herd and distort distance at dawn and dusk. Or they may dissuade insects that recognize only large areas of single-colored fur or act as a kind of natural sunscreen. Because of their uniqueness, stripes may also help zebras recognize one another. Zebras eat mostly grass and will travel up to 1,800 miles in search of food, according to the African Wildlife Foundation. Some zebras also eat leaves and twigs."
+    },
+    {
+        "id":"18",
+        "category":"Herbivore",
+        "name":"rhinoceros",
+        "url":"images/rhinoceros.jpg",
+        "bio":"Rhinoceroses are large, herbivorous mammals identified by their characteristic horned snouts. The word \"rhinoceros\" comes from the Greek \"rhino\" (nose) and \"ceros\" (horn). There are five species and 11 subspecies of rhino; some have two horns, while others have one. Because the animals' horns are used in folk medicine for their supposed healing properties, rhinos have been hunted nearly to extinction. Their horns are sometimes sold as trophies or decorations, but more often they are ground up and used in traditional Chinese medicine. The powder is often added to food or brewed in a tea in the belief that the horns are a powerful aphrodisiac, a hangover cure and treatment for fever, rheumatism, gout and other disorders, according to the International Rhino Foundation. Rhinoceroses are herbivores, which means they eat only vegetation. The type of vegetation they eat varies by species. This is because their snouts are different shapes to accommodate different types of food, according to National Geographic. For example, the black rhino eats trees or bushes because its long lips allow it to pick leaves and fruit from up high. The white rhino has a flat-shaped snout that lets it get closer to the ground for eating grass."
+    },
+    {
+        "id":"19",
+        "category":"Herbivore",
+        "name":"elephant",
+        "url":"images/elephants.jpg",
+        "bio":"The largest land mammal on earth, the African elephant weighs up to eight tons. The elephant is distinguished by its massive body, large ears and a long trunk, which has many uses ranging from using it as a hand to pick up objects, as a horn to trumpet warnings, an arm raised in greeting to a hose for drinking water or bathing. The two species of elephants—African and Asian—need extensive land to survive. Roaming in herds and consuming hundreds of pounds of plant matter in a single day, both species of elephant require extensive amounts of food, water and space. As a result, these large mammals place great demands on the environment and often come into conflict with people in competition for resources. Grasses, leaves, bamboo, bark, roots. Elephants are also known to eat crops like banana and sugarcane which are grown by farmers. Adult elephants eat 300-400 lbs of food per day."
+    },
+    
+    {
+        "id":"20",
+        "category":"Omnivore",
+        "name":"rabbit",
+        "url":"images/rabbit.jpg",
+        "bio":"Rabbits are small mammals with fluffy, short tails, whiskers and distinctive long ears. There are about 30 species of rabbits around the world, and while they live in many different environments, they have many things in common. Rabbits are omnivores. This means that they have a plant-based diet and do not eat meat. During warm months, rabbits will nibble on herbs, peas, grasses, clover, lettuce and greens. In the winter months they eat twigs, bark and buds."
+    },
+    {
+        "id":"21",
+        "category":"Omnivore",
+        "name":"brown bear",
+        "url":"images/brownbear.jpg",
+        "bio":"The awe-inspiring brown bear lives in the forests and mountains of northern North America, Europe, and Asia. It is the most widely distributed bear in the world. The world's largest brown bears are found in coastal British Columbia and Alaska, and on islands such as Kodiak. Adult brown bears are powerful, top-of-the-food chain predators, but much of their diet consists of nuts, berries, fruit, leaves, and roots. Bears also eat other animals, from rodents to moose."
+    },
+    {
+        "id":"22",
+        "category":"Omnivore",
+        "name":"chipmunk",
+        "url":"images/chipmunk.jpg",
+        "bio":"Chipmunks are rodents that are a type of squirrel. These small, furry animals are identified by their stubby legs, bushy tails and the white, black and brown stripes that run down their backs. Chipmunks are omnivores, and they aren't picky about what they eat. Part of their diet consists of vegetation such as mushrooms, berries, nuts, seeds and grains. Chipmunks also eat other creatures such as insects, baby birds, frogs and bird eggs, according to the Wildlife Hotline. Chipmunks generally gather food on the ground in areas with underbrush, rocks, and logs, where they can hide from predators like hawks, foxes, coyotes, weasels, and snakes. They feed on insects, nuts, berries, seeds, fruit, and grain which they stuff into their generous cheek pouches and carry to their burrow or nest to store. Chipmunks hibernate, but instead of storing fat, they periodically dip into their cache of nuts and seeds throughout the winter."
+    },
+    {
+        "id":"23",
+        "category":"Omnivore",
+        "name":"parrots",
+        "url":"images/parrots.jpg",
+        "bio":"The parrots are a broad order of more than 350 birds. Macaws, Amazons, lorikeets, lovebirds, cockatoos and many others are all considered parrots. Though there is great diversity among these birds, there are similarities as well. All parrots have curved beaks and all are zygodactyls, meaning they have four toes on each foot, two pointing forward and two projecting backward. Most parrots eat fruit, flowers, buds, nuts, seeds, and some small creatures such as insects. The greatest diversities exist in Australasia, Central America, and South America. Parrots are omnivores, which means that they can eat both meat and vegetation. Most parrots eat a diet that contains nuts, flowers, fruit, buds, seeds and insects. Seeds are their favorite food. They have strong jaws that allow them to snap open nutshells to get to the seed that's inside. "
+    },
+    {
+        "id":"24",
+        "category":"Omnivore",
+        "name":"dogs",
+        "url":"images/dog.jpg",
+        "bio":"Dogs were probably the first tame animals. They have accompanied humans for some 10,000 years. Some scientists assert that all dogs, domestic and wild, share a common ancestor in the small South Asian wolf. Today humans have bred hundreds of different domestic dog breeds—some of which could never survive in the wild. Domestic dogs serve as more than companions; many earn their keep by working hard. Dogs herd livestock, aid hunters, guard homes, and perform police and rescue work. Some special animals even guide the blind—a poignant symbol of the dog's longstanding role as man's best friend."
+    },
+    {
+        "id":"25",
+        "category":"Omnivore",
+        "name":"squirrel",
+        "url":"images/golden-mantled-ground-squirrel.jpg",
+        "bio":"Squirrels are familiar to almost everyone. More than 200 squirrel species live all over the world, with the notable exception of Australia. Like other rodents, squirrels have four front teeth that never stop growing so they don't wear down from the constant gnawing. Tree squirrels are the types most commonly recognized, often seen gracefully scampering and leaping from branch to branch. Other species are ground squirrels that live in burrow or tunnel systems, where some hibernate during the winter season. Ground squirrels eat nuts, leaves, roots, seeds, and other plants. They also catch and eat small animals, such as insects and caterpillars. These small mammals must always be wary of predators because they are tasty morsels with few natural defenses, save flight. Sometimes groups of ground squirrels work together to warn each other of approaching danger with a whistling call. To prepare for cold months, squirrels will bury their food. In the winter months they have a store of food they can eat when supplies are scarce."
+    },
+    {
+        "id":"26",
+        "category":"Omnivore",
+        "name":"hedgehog",
+        "url":"images/hedgehog.jpg",
+        "bio":"Hedgehogs are small mammals with cone-shaped faces, short legs and bodies that are covered with porcupine-like quills. Despite their similar appearances, porcupines and hedgehogs are not closely related. Unlike porcupines, hedgehog quills are not easily detached from their bodies, according to Animal Planet. Hedgehog quills are made from keratin, much like human nails. When in danger, the hedgehog rolls into a ball so that the quills cover the entire area of their exposed body and protects the animal from predators, according to National Geographic. Once they are in a ball, they must stay still. It is a myth that they can roll while curled into a ball. These animals root through hedges and other undergrowth in search of the small creatures that compose the bulk of their diet—insects, worms, centipedes, snails, mice, frogs, and snakes. As a hedgehog picks its way through the hedges it emits piglike grunts—thus, the hedgehog."
+    },
+    {
+        "id":"27",
+        "category":"Omnivore",
+        "name":"turtle",
+        "url":"images/turtle.jpg",
+        "bio":"Turtles are reptiles with hard shells that protect them from predators. They are among the oldest and most primitive groups of reptiles, having evolved millions of years ago. Turtles live all over the world in almost every type of climate. Most turtles are omnivores; they eat a variety of different things, depending on their species. Musk turtles eat mollusks, plants, small fish and insects. The cooter turtle is mostly vegetarian, and the green sea turtle only eats grasses and algae. The alligator snapping turtle lures in fish with its tongue, which looks like a worm. It wiggles its tongue to attract a hungry fish and then snaps down on it with its strong jaw. It also eats aquatic plants, snakes, frogs, fish, worms, clams, crayfish and other turtles."
+    },
+    {
+        "id":"28",
+        "category":"Omnivore",
+        "name":"dolphins",
+        "url":"images/dolphins.jpg",
+        "bio":"Dolphins are very intelligent and they seem to be well loved by humans. This aquatic mammal has been able to fascinate us in a variety of ways. They are curious, form strong bonds within their pod, and they have been known to help humans in a variety of circumstances including rescues and with fishing. They are very entertaining due to the leaps that they make out of the water. Some of them leap up to 30 feet in the air as they do so. They have to come to the surface to for water at different intervals to get air. This can be from 20 seconds to 30 minutes between when they get air. The body of the dolphin is grayish blue and the skin is very sensitive to human touch and to other elements that could be in the water. Dolphins track their prey through the expert use of echolocation. They can make up to 1,000 clicking noises per second. These sounds travel underwater until they encounter objects, then bounce back to their dolphin senders, revealing the location, size, and shape of their target. When dolphins are feeding, that target is often a bottom-dwelling fish, though they also eat shrimp and squid. These clever animals are also sometimes spotted following fishing boats in hopes of dining on leftovers."
+    },
+    {
+        "id":"29",
+        "category":"Omnivore",
+        "name":"flamingo",
+        "url":"images/flamingo.jpg",
+        "bio":"Flamingos are large birds that are identifiable by their long necks, sticklike legs and pink or reddish feathers. Flamingos embody the saying \"you are what you eat.\" The pink and reddish colors of a flamingo's feathers come from eating pigments found in algae and invertebrates. The greater flamingo is the tallest species. It stands 3.9 to 4.7 feet (1.2 to 1.45 meters) and weighs up to 7.7 lbs. (3.5 kilograms), according to Sea World. The shortest species is the lesser flamingo, which stands 2.6 feet (80 cm) and weighs 5.5 lbs. (2.5 kg). The wingspan of flamingos ranges from 37 inches (95 cm) to 59 inches (150 cm). Flamingos are large birds that are identifiable by their long necks, sticklike legs and pink or reddish feathers. Flamingos embody the saying \"you are what you eat.\" The pink and reddish colors of a flamingo's feathers come from eating pigments found in algae and invertebrates. There are six species of flamingo, according to the Integrated Taxonomic Information System(ITIS): greater flamingo, lesser flamingo, Chilean flamingo, Andean flamingo, James' (or puna) flamingo and American (or Caribbean) flamingo. The greater flamingo is the tallest species. It stands 3.9 to 4.7 feet (1.2 to 1.45 meters) and weighs up to 7.7 lbs. (3.5 kilograms), according to Sea World. The shortest species is the lesser flamingo, which stands 2.6 feet (80 cm) and weighs 5.5 lbs. (2.5 kg). The wingspan of flamingos ranges from 37 inches (95 cm) to 59 inches (150 cm). Greater flamingos can also be found in the Middle East and India. Flamingos are water birds, so they live in and around lagoons or lakes. These bodies of water tend to be saline or alkaline. Flamingos are generally nonmigratory, but changes in climate or water levels in their breeding areas will cause them to relocate, according to Sea World. Flamingos eat larva, small insects, blue-green and red algae, mollusks, crustaceans and small fish, according to Sea World. Their tendency to eat both vegetation and meat makes them omnivores. Flamingos are pink because the algae they consume are loaded with beta carotene, an organic chemical that contains a reddish-orange pigment. What a flamingo eats depends on what type of beak it has. Lesser, James' and Andean flamingos have what is called a deep-keeled bill. They eat mostly algae. Greater, Chilean and American flamingos have shallow-keeled bills, which allow them to eat insects, invertebrates and small fish. To eat, flamingos will stir up the bottom of the lake with their feet and duck their beaks down into the mud and water to catch their meal."
+    }   
+   
+]
